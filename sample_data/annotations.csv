@@ -1,0 +1,10 @@
+image_name,image_width,image_height,label,xmin,ymin,xmax,ymax
+frame_001.jpg,640,480,car,20,30,150,180
+frame_001.jpg,640,480,pedestrian,200,80,250,300
+frame_002.jpg,1280,720,truck,100,120,500,500
+frame_002.jpg,1280,720,car,-5,30,150,180
+frame_003.jpg,640,480,bicycle,300,200,280,350
+frame_004.jpg,640,480,,50,50,120,130
+frame_005.jpg,640,480,car,20,30,150,180
+frame_005.jpg,640,480,car,20,30,150,180
+frame_006.jpg,640,480,bus,100,100,700,400
